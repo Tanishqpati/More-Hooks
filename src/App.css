@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.list {
+  
+  background-color: rgb(161, 118, 64);
+  height: 10vh;
+  margin-top: 2rem;
+}
+#aaa{
+  margin-top: 2rem;
+  margin-bottom:2rem;
+  height: 4vh;
+  width: 10vw;
+}
+input{
+  margin-top: 2rem;
+  width: 25vw;
+  height: 2vh;
+  border: 2px solid black;
+}
